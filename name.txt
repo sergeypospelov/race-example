@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 GriZimin, накидайте звезд на репозитории плиз
-sergey
-=======
+serge
 sreda
->>>>>>> 93ba255 (Sreda)
+varksyu
